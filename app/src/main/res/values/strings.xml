@@ -12,6 +12,11 @@
     <string name="d">4/4=2</string>
     <string name="e">4-4=0 </string>
 
+    <string name="j"> Jose is handsome.</string>
+    <string name="k"> Jack is strong.</string>
+    <string name="l"> Joshua is noisy.</string>
+    <string name="m"> Am I lying?</string>
+
     <string name="next_text">next</string>
     <string name="prev_text">previous</string>
 </resources>
